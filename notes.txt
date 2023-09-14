@@ -1,0 +1,36 @@
+(1)int a=9 b=8;
+int x,y=a*b; 
+here value of a*b is assigned to y and remains undeclared
+
+(2)1.6 % 2.0 is invalid because modulo operator works only for integers
+
+(3)type conversion from double to int is not possible
+
+(4)in type conversion rounding of is NOT done 
+1.99999 is not converted to 2,it i changed to 1
+
+(5)the statement 8^8 is a valid statement and considered as XOR operator
+
+(6)we cannot declare and use the variable in a same line
+
+(7)function takes value as input as a parameter and pass the 
+result as a return value
+
+(8)passing arguments to the function:-
+1.void avg(); it returns noting so that's why returntype is void. 
+2.void avg(int n);
+3.int avg(int a,int b,int c); this will return (a+b+c)/3 
+here int is a returntype
+
+(9)difference between arguments and parameters
+(10)function can return only one value at a time
+(11)memory is full and programme will crash this means stack overflow
+(12)pointer is a variable that stores the memory address of another variable
+(13)*ptr: *is value at address operator
+    &age: &is address of operator
+(14)when we enter the index greater than the arraysize,
+then it will show an index error.
+
+(15)scanf can't take multiword string as an input
+(16)We cannot change the value stored in the array by directly using the 
+assignment operator"=".
